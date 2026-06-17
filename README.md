@@ -19,4 +19,4 @@ a software engineer design, develop, tests, and maintains software applications.
 - version control goods like git
 - understanding algorithm and data structure 
 ### career grouth
-software engineers can grow into roles
+software engineers can grow into roles such as senior developers, technical leads
