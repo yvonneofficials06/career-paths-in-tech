@@ -14,4 +14,4 @@ a software engineer design, develop, tests, and maintains software applications.
 - collaboration with other developers
 - testing software systems
 ### required skills
-- writing and maintaining code
+- programming languages {python and JavaScript}
