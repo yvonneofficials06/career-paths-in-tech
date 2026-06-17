@@ -16,3 +16,4 @@ a software engineer design, develop, tests, and maintains software applications.
 ### required skills
 - programming languages {python,  JavaScript,java,etc}
 - problem-solving skills 
+- version control goods like git
