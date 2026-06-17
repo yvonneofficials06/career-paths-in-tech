@@ -10,4 +10,5 @@
 a software engineer design, develop, tests, and maintains software applications.they work on website,mobile apps and backend systems
 ### key responsibilities
 - writing and maitaing code
+- debugging and fixing errors 
 - 
