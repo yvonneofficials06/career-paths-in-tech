@@ -12,3 +12,4 @@ a software engineer design, develop, tests, and maintains software applications.
 - writing and maitaing code
 - debugging and fixing errors 
 - collaboration with other developers
+- testing software systems
