@@ -13,4 +13,5 @@ a software engineer design, develop, tests, and maintains software applications.
 - debugging and fixing errors 
 - collaboration with other developers
 - testing software systems
-### required skills 
+### required skills
+- writing and maintaining code
