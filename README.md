@@ -28,4 +28,4 @@ an analytical expert utilities statistics, machine learning programming (python,
 ### visualization and communication
 - presenting complex finding to stakeholders using tools like tableau, power BI,matplotlib,or seaborne.
 ### domain expertise
-- applying data insights to specific industrys such as finance, healthcare 
+- applying data insights to specific industrys such as finance, healthcare,or marketing.
