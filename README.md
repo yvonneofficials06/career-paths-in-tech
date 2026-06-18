@@ -22,4 +22,5 @@ software engineers can grow into roles such as senior developers, technical lead
 an analytical expert utilities statistics, machine learning programming (python, R,SQL),and domain knowledge to analyze, model and interprete complex dataset.
 ## key responsibilities and skills
 ### data preparation
-gathering, cleaning,and structuring,messy, unstructured data.
+gathering, cleaning,and structuring messy, unstructured data.
+### analysis and modeling 
