@@ -1,10 +1,7 @@
 # team career project
 ## team members
 - collins
-- denis
-- yvonne
--
--
+- Yvonne 
 # career path in tech
 ## software engineer
 a software engineer design, develop, tests, and maintains software applications.they work on website,mobile apps and backend systems
