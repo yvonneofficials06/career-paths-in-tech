@@ -26,4 +26,4 @@ an analytical expert utilities statistics, machine learning programming (python,
 ### analysis and modeling
 - developing, testing, and training machine learning algorithms to forecast outcomes and identify patterns.
 ### visualization and communication
-- presenting complex finding to
+- presenting complex finding to stakeholders using tableau 
