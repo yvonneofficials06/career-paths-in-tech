@@ -24,4 +24,4 @@ an analytical expert utilities statistics, machine learning programming (python,
 ### data preparation
 - gathering, cleaning,and structuring messy, unstructured data.
 ### analysis and modeling
-- developing, testing, and training 
+- developing, testing, and training machine learning to forecast 
