@@ -19,4 +19,4 @@ a software engineer design, develop, tests, and maintains software applications.
 software engineers can grow into roles such as senior developers, technical leads, or engineering manager.
 # data scientist 
 ## role
-an analytical expert utilities statistics, machine learning programming (python, R,SQL),and domain knowledge to analyze, model 
+an analytical expert utilities statistics, machine learning programming (python, R,SQL),and domain knowledge to analyze, model and interprete complex dataset. 
